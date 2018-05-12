@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '6787'
     url: http://www.gutenberg.org/2009/agents/6787
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20101#Under-Fire
 gutenberg_issued: '2006-12-14'
 gutenberg_type: Text
 identifiers:
